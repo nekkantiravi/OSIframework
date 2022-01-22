@@ -1,0 +1,46 @@
+[
+  {
+    "name": "DST It Services",
+    "longName": "DST It Services Ltd",
+    "website": "http://www.dstit.com",
+    "region": "EU",
+    "timeZone": "IST",
+    "accontManager": "Avinash Gadamsetty",
+    "salesPersonName": "Parameshwar Reddy Pentaparthy",
+    "customerSourcedFrom": "DELIVERY",
+    "paymentTerms": "NET 10",
+    "invoiceNotes": "please contact admin for invoice problem",
+    "invoiceTemplate": "Fixed_Fee",
+    "taxRate": "GST 5 PERCENT",
+    "lateFeeTerms": "Not Applicable",
+    "currency": "INR",
+    "businessDomain": "E-COMMERCE",
+    "type": "CustomerDetails"
+  },
+    {
+      "addressLine1": "Q City Blocks A And B",
+      "addressLine2": "Financial District NanakramGuda",
+      "country": "INDIA",
+      "state": "TS",
+      "city": "Hyderabad",
+      "zipcode": "500081",
+      "type": "InvoiceAddress"
+  },
+  {
+    "addressLine1": "Q City Blocks A And B",
+    "addressLine2": "Financial District NanakramGuda",
+    "country": "UNITED STATES OF AMERICA",
+    "state": "NY",
+    "city": "Middletown",
+    "zipcode": "10005",
+    "type": "CommunicationAddress"
+  },
+  {
+    "name": "test1",
+    "contactNumber": "1234567890",
+    "emailAddress": "test_cutomer@gmail.com",
+    "alternateContactNumber": "1234567898",
+    "type" : "ContactPersonDetails"
+  }
+
+]

@@ -1,0 +1,13 @@
+{
+  "firstName": "First Name",
+  "lastName": "Last Name",
+  "email": "email@website.com",
+  "phone": "0123456789",
+  "address": "My Address",
+  "city": "My City",
+  "state": "California",
+  "zipCode": "12345",
+  "website": "http://www.website.com",
+  "haveHosting": "yes",
+  "projectDescription": "Project Description"
+}
